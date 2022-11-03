@@ -22,7 +22,7 @@ const Header = () => {
 
 const SidebarFooter = () => {
   return (
-    <Flex color="white" h="40px" fontSize="13px" textAlign="center">
+    <Flex color="teal" h="40px" fontSize="13px" textAlign="center">
       © 2022, Etherium by Process Automation (MIS)
     </Flex>
   );
